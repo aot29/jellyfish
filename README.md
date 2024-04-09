@@ -30,6 +30,7 @@ Clone the repo, `cd` into it.
 Create a Python virtual environment and install the required packages.
 ```
 conda create -n jelly python=3.12.2
+conda activate jelly
 pip install -r requirements.txt
 ```
 
